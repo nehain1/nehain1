@@ -1,3 +1,4 @@
+![logo](https://github.com/nehain1/nehain1/blob/main/nehain_cover_image.jpg)
 <h1 align="center">Hi 👋, I'm Nehain Khan</h1>
 <h3 align="center">A passionate CMS developer.</h3>
 
