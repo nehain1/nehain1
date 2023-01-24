@@ -20,7 +20,7 @@ https://zylaz.com</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 📧 contact me at **nehain@snexus.com**
+- 📧 contact me at <b>nehain@snexus.com</b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
